@@ -1,0 +1,33 @@
+examples/gguf-hash/CMakeFiles/sha256.dir/deps/sha256/sha256.c.o: \
+ /home/co/llama.cpp/examples/gguf-hash/deps/sha256/sha256.c \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdc-predef.h \
+ /home/co/llama.cpp/examples/gguf-hash/deps/rotate-bits/rotate-bits.h \
+ /home/co/miniconda3/lib/gcc/x86_64-conda-linux-gnu/11.2.0/include/stdint.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdint.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/features.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/sys/cdefs.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wordsize.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/gnu/stubs-64.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/wchar.h \
+ /home/co/llama.cpp/examples/gguf-hash/deps/sha256/sha256.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/stdlib.h \
+ /home/co/miniconda3/lib/gcc/x86_64-conda-linux-gnu/11.2.0/include/stddef.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/waitflags.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/waitstatus.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/endian.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/endian.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/byteswap.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/types.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/typesizes.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/byteswap-16.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/sys/types.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/time.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/sys/select.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/select.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/sigset.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/time.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/sys/sysmacros.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/alloca.h \
+ /home/co/miniconda3/x86_64-conda-linux-gnu/sysroot/usr/include/bits/stdlib-float.h

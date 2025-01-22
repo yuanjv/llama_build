@@ -1,0 +1,2 @@
+/home/co/miniconda3/bin/x86_64-conda-linux-gnu-ar qc libllava_static.a CMakeFiles/llava.dir/llava.cpp.o CMakeFiles/llava.dir/clip.cpp.o
+/home/co/miniconda3/bin/x86_64-conda-linux-gnu-ranlib libllava_static.a
